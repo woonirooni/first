@@ -11,7 +11,8 @@
 }
 
 .content {
-    margin:50px 0 0 20px;
+    margin:1px auto 20px;
+    background: #ffffff;
 }
 
 h1 a {
@@ -48,4 +49,13 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+.top-menu{
+    margin-top: 20px;
+    position: block;
+}
+
+#headname{
+    text-align:center;
 }
